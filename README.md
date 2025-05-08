@@ -50,7 +50,7 @@ A synthetic dataset simulating transaction behaviors. It includes:
 - Enabled real-time anomaly checks via user input.
 
 
-##📈 Example Use Case
+## 📈 Example Use Case
 
 Input
 
