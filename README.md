@@ -51,9 +51,13 @@ A synthetic dataset simulating transaction behaviors. It includes:
 
 
 ##📈 Example Use Case
-- Input
+
+Input
+
 Enter the value for 'Transaction_Amount': 10000  
 Enter the value for 'Average_Transaction_Amount': 900  
 Enter the value for 'Frequency_of_Transactions': 6  
-- Output
-> Anomaly detected: This transaction is flagged as an anomaly.
+
+Output
+
+Anomaly detected: This transaction is flagged as an anomaly.
